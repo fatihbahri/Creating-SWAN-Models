@@ -1,0 +1,11 @@
+Sıralama
+
+1-Create an empty model2 folder
+*2-Open "Create_Models_P3_30-10-2022.ipynb"  >>>>> Change "Spectrums_loc"
+*3-Run >>>> "Create_Models_P3_30-10-2022.ipynb"
+?-DO NOT Run manually >>>> "comma.ipynb"
+4-Run >>>> "swanrun_models.ipynb"
+*5-Run >>>> "Run_Results(07-20-2022).ipynb"
+*6-Open IPYNBs/S_Analysis and run "Run_multiple_S_Analysis.ipynb"
+
+* If you want to run models with BREAK BKD parameters, you can use ipynb with "_BKD_" for each file
