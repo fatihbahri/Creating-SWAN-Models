@@ -35,6 +35,3 @@ _Under **"Main Tasks"** is the **"DATA"** folder, which contains a small part of
 _There is also an **"Additional Comparison Tools"** folder under the **"Main Tasks"** section. In this folder there are python notebooks in which additional models can be compared. See the readme.md file in this folder for details._
 
 
-```python
-
-```
